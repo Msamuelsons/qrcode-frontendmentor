@@ -1,0 +1,30 @@
+@media screen and (max-width:1440px) {
+    body {
+        width: 100%;
+    }
+
+    .content__card {
+        width: 350px;
+    }
+
+    .information__card p {
+        font-size: 16px;
+        margin-top: 16px;
+    }
+}
+
+@media screen and (max-width:350px) {
+    body {
+        width: 100%;
+
+    }
+
+    .content__card {
+        width: 100vw;
+    }
+
+    .information__card p {
+        font-size: 16px;
+        margin-top: 16px;
+    }
+}
